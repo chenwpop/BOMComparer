@@ -9,14 +9,7 @@ This is the Developer Manual for BOM Comparison Tool.
 ## Environment
 - **Language:** Python 3.5.5
 - **Package Management Tool:** Anaconda 4.5.8, pip 18.0
-- **Packages:**
-                numpy 1.15.0
-                pandas 0.23.3
-                xlrd 1.1.0
-                openpyxl 2.5.4
-                PyQt5 5.11.2
-                PyQt5_sip 4.19.12
-                PyInstaller 3.4dev0+
+- **Packages:** numpy 1.15.0 | pandas 0.23.3 | xlrd 1.1.0 | openpyxl 2.5.4 | PyQt5 5.11.2 | PyQt5_sip 4.19.12 | PyInstaller 3.4dev0+
 - **Operation System:** Virtual Environment on win10, OS X
 
 ## Source Code
